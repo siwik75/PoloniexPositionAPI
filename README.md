@@ -2,9 +2,9 @@
 PoloniexPositionAPI
 ===================
 
-[![NPM Version][https://img.shields.io/pypi/v/poloniexpositionapi.svg]][https://pypi.python.org/pypi/poloniexpositionapi]
-[![TravisCI][https://img.shields.io/travis/siwik75/poloniexpositionapi.svg]][https://travis-ci.org/siwik75/poloniexpositionapi]
-[![Documentation Status][https://readthedocs.org/projects/poloniexpositionapi/badge/?version=latest]][https://poloniexpositionapi.readthedocs.io/en/latest/?badge=latest]
+[![PyPI](https://img.shields.io/pypi/v/poloniexpositionapi.svg)](https://pypi.python.org/pypi/poloniexpositionapi)
+[![TravisCI](https://img.shields.io/travis/siwik75/poloniexpositionapi.svg)](https://travis-ci.org/siwik75/poloniexpositionapi)
+[![Documentation Status](https://readthedocs.org/projects/poloniexpositionapi/badge/?version=latest)](https://poloniexpositionapi.readthedocs.io/en/latest/?badge=latest)
 
 
 Using Poloniex API - gathers your Balance and All trades to determine your gain/loss on current position and per coin basis.
@@ -17,7 +17,8 @@ Using Poloniex API - gathers your Balance and All trades to determine your gain/
 Features
 --------
 
-* TODO
+* show your Poloniex Balance
+* show Gain/Loss position per coin basis
 
 Usage
 -----
