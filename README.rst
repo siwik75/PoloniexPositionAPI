@@ -30,7 +30,8 @@ Features
 
 Usage
 -----
-```
+
+```python
     from poloniexpositionapi import poloniexPosition
 
     PubKey=<Your Public Key from Poloniex>
@@ -49,3 +50,4 @@ Usage
     print "XMR"
     myPol.displayCoinPairGainLoss(coin='XMR')
 ```
+
